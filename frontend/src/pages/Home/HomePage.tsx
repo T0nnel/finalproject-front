@@ -16,9 +16,6 @@ export const HomePage = () => {
     }
 
 
-  if (!isLoggedIn) {
-    return <DefaultHome/>
-  }
 
   switch(persona){
     case 'Farmer':

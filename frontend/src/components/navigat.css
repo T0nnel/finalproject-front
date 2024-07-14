@@ -1,0 +1,18 @@
+/* Navbar.css */
+
+.logout-button {
+    background-color:#279639;
+    color: white; /* White text */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 20px;
+    min-width: max-content;
+  }

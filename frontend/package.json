@@ -1,6 +1,5 @@
 {
   "name": "frontend",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -32,7 +31,7 @@
     "vite": "^5.3.1"
   },
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
-  "main": "index.js",
+  "main": "main.tsx",
   "keywords": [],
   "author": "",
   "license": "ISC"
